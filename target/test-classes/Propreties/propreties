@@ -1,0 +1,5 @@
+TestDriverPath = c:\\chromedriver.exe
+
+Web_Portail_Link = https://mistore.com.tn/ 
+
+Web_MaisonC_Link = https://mistore.com.tn/product-category/maison-connectee/
